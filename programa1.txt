@@ -1,6 +1,3 @@
 hola beyond
 hola mundo
-hola estudiantes
-hola 4
-hola 5
-hola 6
+cambios a petición del cliente.
